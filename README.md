@@ -36,6 +36,7 @@ This project uses Natural Language Processing (NLP) and a supervised machine lea
 ## Demo
 
 The application provides a simple interface where users can input a product review and receive a prediction indicating whether the review is fake or genuine.
+URL- https://fake-review-detector-hxszbdz4y5qbsjpebblgzv.streamlit.app/
 
 ## Status
 
